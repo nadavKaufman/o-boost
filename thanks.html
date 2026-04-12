@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>תודה | oboost</title>
+  <style>
+    :root {
+      --bg-main: #f3f3f1;
+      --bg-soft: #f7f6f3;
+      --text-main: #2f2f2f;
+      --text-soft: #5f5f5a;
+      --border-soft: rgba(0, 0, 0, 0.08);
+      --accent: #d88a2d;
+      --accent-hover: #c97d24;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+      background: var(--bg-main);
+      color: var(--text-main);
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+    }
+
+    .thanks-card {
+      width: 100%;
+      max-width: 760px;
+      background: var(--bg-soft);
+      border: 1px solid var(--border-soft);
+      border-radius: 28px;
+      padding: 56px 40px;
+      text-align: center;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.04);
+    }
+
+    .thanks-logo {
+      width: 150px;
+      max-width: 100%;
+      margin-bottom: 28px;
+    }
+
+    h1 {
+      margin: 0 0 18px;
+      font-size: 52px;
+      line-height: 1;
+      font-weight: 600;
+      letter-spacing: -0.03em;
+    }
+
+    p {
+      margin: 0 auto 16px;
+      max-width: 540px;
+      font-size: 22px;
+      line-height: 1.8;
+      color: var(--text-soft);
+    }
+
+    .back-btn {
+      display: inline-block;
+      margin-top: 24px;
+      background: var(--accent);
+      color: white;
+      text-decoration: none;
+      padding: 14px 28px;
+      border-radius: 10px;
+      font-size: 16px;
+      font-weight: 600;
+      transition: background-color 0.25s ease, transform 0.25s ease;
+    }
+
+    .back-btn:hover {
+      background: var(--accent-hover);
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 700px) {
+      .thanks-card {
+        padding: 40px 24px;
+        border-radius: 22px;
+      }
+
+      h1 {
+        font-size: 38px;
+      }
+
+      p {
+        font-size: 18px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="thanks-card">
+    <img src="oboostlogo-removebg-preview.png" alt="oboost logo" class="thanks-logo">
+    <h1>תודה רבה!</h1>
+    <p>הפרטים שלכם התקבלו בהצלחה.</p>
+    <p>נבדוק את המיקום וניצור קשר בהקדם אם נמצא התאמה להצבת המכונה.</p>
+    <a href="index.html" class="back-btn">חזרה לאתר</a>
+  </div>
+</body>
+</html>
