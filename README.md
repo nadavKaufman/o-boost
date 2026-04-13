@@ -26,7 +26,7 @@ The website presents oboost as an automated fresh orange juice solution for mall
 
 ## Live website
 
-[View the live site](PASTE-YOUR-LINK-HERE)
+[View the live site](https://nadavkaufman.github.io/o-boost/)
 
 ## What I worked on
 
