@@ -1,4 +1,6 @@
-# oboost
+# OBoost Marketing Website
+
+![OBoost homepage screenshot](docs/screenshots/homepage.png)
 
 A landing page for an automated fresh orange juice machine brand.
 
@@ -6,7 +8,7 @@ A landing page for an automated fresh orange juice machine brand.
 
 This project was built as a frontend practice project with the goal of creating a clean, modern, and visually polished marketing website.
 
-The website presents oboost as an automated fresh orange juice solution for malls, commercial centers, campuses, offices, and other high-traffic locations.
+The website presents OBoost as an automated fresh orange juice solution for malls, commercial centers, campuses, offices, and other high-traffic locations.
 
 ## Main sections
 
@@ -20,9 +22,9 @@ The website presents oboost as an automated fresh orange juice solution for mall
 
 ## Built with
 
-- HTML
-- CSS
-- JavaScript
+- HTML5
+- CSS3
+- Vanilla JavaScript
 
 ## Live website
 
