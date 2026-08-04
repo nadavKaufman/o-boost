@@ -1,11 +1,6 @@
 # OBoost Marketing Website
 
 
-## Live website
-
-[View the live site](https://nadavkaufman.github.io/o-boost/)
-
-
 ![OBoost homepage screenshot](docs/screenshots/homepage.png)
 
 A landing page for an automated fresh orange juice machine brand.
