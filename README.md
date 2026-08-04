@@ -8,25 +8,16 @@ https://nadavkaufman.github.io/o-boost/
 
 ![OBoost homepage screenshot](docs/screenshots/homepage.png)
 
-## Overview
+## Business goal
 
-The public-facing marketing website for **OBoost**, a company operating automated fresh orange juice vending machines.
+OBoost operates automated fresh orange juice vending machines across malls, offices, campuses, and other high-traffic locations.
 
-The website introduces the company's solution, explains how it works, and presents its benefits to potential customers through a clean, modern, and responsive interface.
+This website serves as the company's public-facing marketing website, introducing the product, explaining how it works, and helping potential customers learn about the solution and contact the company.
 
 **Related project:** OBoost Manager — the company's internal operations management system.
 
----
+## Main sections
 
-## Business goal
-
-The website serves as OBoost's public presence, helping potential customers understand the product, explore its benefits, and contact the company.
-
----
-
-## Main features
-
-- Responsive landing page
 - Hero section
 - Product overview
 - "How it works" section
@@ -34,21 +25,15 @@ The website serves as OBoost's public presence, helping potential customers unde
 - FAQ section
 - Contact section
 
----
-
 ## Technology stack
 
 - HTML5
 - CSS3
 - Vanilla JavaScript
 
----
-
 ## Architecture
 
 A responsive single-page website built with semantic HTML, modular CSS, and vanilla JavaScript without external frameworks.
-
----
 
 ## What I worked on
 
@@ -57,8 +42,6 @@ A responsive single-page website built with semantic HTML, modular CSS, and vani
 - Implemented responsive behavior across desktop and mobile devices.
 - Added interactive UI elements with JavaScript.
 - Improved spacing, visual hierarchy, and overall user experience.
-
----
 
 ## Notes
 
