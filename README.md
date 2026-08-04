@@ -1,29 +1,31 @@
 # OBoost Marketing Website
 
+A responsive public-facing website built for OBoost, a company operating automated fresh orange juice machines across malls, commercial centers, campuses, offices, and other high-traffic locations.
+
 ## Live Website
 
-https://nadavkaufman.github.io/o-boost/
+[https://nadavkaufman.github.io/o-boost/](https://nadavkaufman.github.io/o-boost/)
 
-## Screenshot
+## Screenshots
+
+### Homepage
 
 ![OBoost homepage screenshot](docs/screenshots/homepage.png)
 
-## Business goal
+## Business purpose
 
-OBoost operates automated fresh orange juice vending machines across malls, offices, campuses, and other high-traffic locations.
+OBoost needed a clear and modern website to present its automated fresh orange juice machines, explain how the service works, highlight suitable locations, answer common questions, and allow potential customers and business partners to contact the company.
 
-This website serves as the company's public-facing marketing website, introducing the product, explaining how it works, and helping potential customers learn about the solution and contact the company.
+The website serves as the company's public-facing marketing platform and is separate from the internal OBoost Operations Portal used to manage machines, employees, cleaning, faults, tasks, and inventory.
 
-**Related project:** OBoost Manager — the company's internal operations management system.
+## Main features
 
-## Main sections
-
-- Hero section
-- Product overview
-- "How it works" section
-- Locations section
-- FAQ section
-- Contact section
+- **Company presentation** — introduces OBoost and explains the value of its automated fresh orange juice machines.
+- **How it works** — presents the process of ordering and receiving freshly squeezed orange juice.
+- **Location presentation** — highlights malls, commercial centers, campuses, offices, and other suitable locations.
+- **Responsive design** — adapts the layout and navigation for desktop and mobile devices.
+- **Interactive elements** — uses JavaScript for navigation and page interactions.
+- **FAQ and contact sections** — answers common questions and provides a way to contact the company.
 
 ## Technology stack
 
@@ -33,15 +35,17 @@ This website serves as the company's public-facing marketing website, introducin
 
 ## Architecture
 
-A responsive single-page website built with semantic HTML, modular CSS, and vanilla JavaScript without external frameworks.
+A responsive, single-page marketing website built from scratch using semantic HTML, custom CSS, and vanilla JavaScript, without a frontend framework or UI component library.
 
-## What I worked on
+The project is independent from the OBoost Operations Portal, which was developed separately using React, TypeScript, Supabase, and PostgreSQL.
 
-- Designed and developed the entire website from scratch.
-- Built the layout and styling using HTML and CSS.
-- Implemented responsive behavior across desktop and mobile devices.
-- Added interactive UI elements with JavaScript.
-- Improved spacing, visual hierarchy, and overall user experience.
+## Local setup
+
+Clone the repository and open `index.html` in a browser, or run it using a local development server such as Live Server.
+
+## Deployment
+
+Deployed using GitHub Pages.
 
 ## Notes
 
