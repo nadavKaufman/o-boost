@@ -1,45 +1,64 @@
+# OBoost Marketing Website
 
-## Live website
+## Live Website
 
 https://nadavkaufman.github.io/o-boost/
 
-
-# OBoost Marketing Website
-
+## Screenshot
 
 ![OBoost homepage screenshot](docs/screenshots/homepage.png)
 
-A landing page for an automated fresh orange juice machine brand.
+## Overview
 
-## About the project
+The public-facing marketing website for **OBoost**, a company operating automated fresh orange juice vending machines.
 
-This project was built as a frontend practice project with the goal of creating a clean, modern, and visually polished marketing website.
+The website introduces the company's solution, explains how it works, and presents its benefits to potential customers through a clean, modern, and responsive interface.
 
-The website presents OBoost as an automated fresh orange juice solution for malls, commercial centers, campuses, offices, and other high-traffic locations.
+**Related project:** OBoost Manager — the company's internal operations management system.
 
-## Main sections
+---
 
+## Business goal
+
+The website serves as OBoost's public presence, helping potential customers understand the product, explore its benefits, and contact the company.
+
+---
+
+## Main features
+
+- Responsive landing page
 - Hero section
-- Quick value points
-- About section
-- “How it works” section
+- Product overview
+- "How it works" section
 - Locations section
 - FAQ section
 - Contact section
 
-## Built with
+---
+
+## Technology stack
 
 - HTML5
 - CSS3
 - Vanilla JavaScript
 
+---
+
+## Architecture
+
+A responsive single-page website built with semantic HTML, modular CSS, and vanilla JavaScript without external frameworks.
+
+---
+
 ## What I worked on
 
-- Building the full page structure from scratch
-- Creating the layout and styling with pure CSS
-- Making the website responsive for mobile
-- Adding interactive elements with JavaScript
-- Improving spacing, hierarchy, and overall visual polish
+- Designed and developed the entire website from scratch.
+- Built the layout and styling using HTML and CSS.
+- Implemented responsive behavior across desktop and mobile devices.
+- Added interactive UI elements with JavaScript.
+- Improved spacing, visual hierarchy, and overall user experience.
+
+---
 
 ## Notes
 
