@@ -1,7 +1,7 @@
 
 ## Live website
 
-[View the live site](https://nadavkaufman.github.io/o-boost/)
+https://nadavkaufman.github.io/o-boost/
 
 
 # OBoost Marketing Website
