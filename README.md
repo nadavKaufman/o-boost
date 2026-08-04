@@ -1,3 +1,9 @@
+
+## Live website
+
+[View the live site](https://nadavkaufman.github.io/o-boost/)
+
+
 # OBoost Marketing Website
 
 
@@ -26,10 +32,6 @@ The website presents OBoost as an automated fresh orange juice solution for mall
 - HTML5
 - CSS3
 - Vanilla JavaScript
-
-## Live website
-
-[View the live site](https://nadavkaufman.github.io/o-boost/)
 
 ## What I worked on
 
